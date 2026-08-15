@@ -1,0 +1,10 @@
+.navigationBar {
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    right:1050px;
+    left:0px;
+    height:600px;
+    background-color:green; /*should be a forest green */
+
+}
